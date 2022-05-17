@@ -11,6 +11,8 @@ If you want to learn more about SparkV (Information, commands, etc), visit our [
 
 To personalize your server, use our `/settings` command.
 
+<img src="https://cdn.discordapp.com/attachments/951567652453773370/976119910910545960/IMG_20220517_165027.jpg" style="border-radius:6px;height: 480px;" alt="SparkV Settings">
+
 #### 🎵 Music
 
 Rock out to our high quality music service! The quality of SparkV's music is beautiful, not to mention the UI that comes along with it.
@@ -27,13 +29,13 @@ Play games with your server!
 
 Laugh with your fellow server members at some Reddit memes!
 
-<img src="https://www.sparkv.tk/assets/images/features/meme_plain.webp" style="border-radius:6px;height: 480px;" alt="SparkV Memes from Reddit">
+<img src="https://cdn.discordapp.com/attachments/951567652453773370/976120512600227860/IMG_20220517_165409.jpg" style="border-radius:6px;height: 480px;" alt="SparkV Memes from Reddit">
 
 #### 💰 Economy
 
 Get rich, or rob rich people!
 
-<img src="https://www.sparkv.tk/assets/images/features/economy_plain.webp" style="border-radius:6px;height: 225px;" alt="SparkV Economy">
+<img src="https://cdn.discordapp.com/attachments/763803060001964037/976120889210961980/IMG_20220517_165539.jpg" style="border-radius:6px;height: 225px;" alt="SparkV Economy">
 
 #### And many more!
 
