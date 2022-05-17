@@ -21,7 +21,7 @@ Rock out to our high quality music service! The quality of SparkV's music is bea
 
 Play games with your server!
 
-<img src="https://www.sparkv.tk/assets/images/features/hangman_plain.webp" style="border-radius:6px;height: 450px;" alt="SparkV Games">
+<img src="https://cdn.discordapp.com/attachments/768855060553138218/976117735811596288/IMG_20220517_164309.jpg" style="border-radius:6px;height: 450px;" alt="SparkV Games">
 
 #### 😂 Memes
 
