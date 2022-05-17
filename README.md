@@ -15,7 +15,7 @@ To personalize your server, use our `/settings` command.
 
 Rock out to our high quality music service! The quality of SparkV's music is beautiful, not to mention the UI that comes along with it.
 
-<img src="https://www.sparkv.tk/assets/images/features/music_plain.webp" style="border-radius:6px;height: 480px;" alt="SparkV Music">
+<img src="https://cdn.discordapp.com/attachments/768855060553138218/976115905283096678/IMG_20220517_163546.jpg" style="border-radius:6px;height: 480px;" alt="SparkV Music">
 
 #### 🎲 Games
 
@@ -39,14 +39,14 @@ Get rich, or rob rich people!
 
 SparkV offers over **130+ commands** with **13 categories**!
 
-Including
+Including:
 
->Fun
->Moderation
->Utilities
->Music
->Reddit
->Economy
+ Fun,
+ Moderation,
+ Utilities,
+ Music,
+ Reddit,
+ Economy,
 
 
 ### What are you waiting for?!
