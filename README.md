@@ -48,7 +48,7 @@ Including:
  Utilities,
  Music,
  Reddit,
- Economy,
+ Economy... It would take too long to list all the commands, so we made a [web site with all commands!](https://docs.sparkv.tk/information/commands)
 
 
 ### What are you waiting for?!
